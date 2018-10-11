@@ -1,7 +1,11 @@
 {
   "params": {
-    "name": "text",
-    "id": "int",
-    "address": "inet"
+     "timestamp": "double",
+     "state": "frozen <state>",
+     "tick": "long"
+  },
+  "state": {
+     "0": "float",
+     "1": "int"
   }
 }
